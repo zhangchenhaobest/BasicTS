@@ -1,3 +1,29 @@
+# BasicTS
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A Fair and Scalable Time Series Forecasting Benchmark and Toolkit.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+公平且可扩展的时间序列预测基准与工具包。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
   <img src="assets/Basic-TS-logo-for-white.png#gh-light-mode-only" height=200>
   <img src="assets/Basic-TS-logo-for-black.png#gh-dark-mode-only" height=200>
